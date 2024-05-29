@@ -1,11 +1,5 @@
-import 'package:flutter/foundation.dart';
-
-import 'package:flutter_riverpod/flutter_riverpod.dart';
-
-import '../../db/isar.dart';
 import '../../db/paths.dart';
 import '../../modules/setting/model/setting.model.dart';
-import '../../modules/setting/provider/settings.provider.dart';
 import '../model/theme.model.dart';
 
 // typedef ThemeNotifier = NotifierProvider<ThemeProvider, ThemeProfile>;
